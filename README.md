@@ -12,6 +12,7 @@ Email verification page
 ![Screenshot (446)](https://github.com/Ujjawal-Chaurasia/CryptoDashbord/assets/78657632/05c990c7-e295-4631-a034-195433c5d408)
 ![Screenshot (447)](https://github.com/Ujjawal-Chaurasia/CryptoDashbord/assets/78657632/a21634f8-47fb-4e84-a0ad-ef2c26ee6365)
 Dashboard Page
-![Screenshot (448)](https://github.com/Ujjawal-Chaurasia/CryptoDashbord/assets/78657632/ed4f55c6-e09e-42f1-a7d2-820222cf6fe2)
-![Screenshot (449)](https://github.com/Ujjawal-Chaurasia/CryptoDashbord/assets/78657632/53ae97f4-ec01-4e12-bdb5-1f3bbf1ee69f)
+![Screenshot (448)](https://github.com/Ujjawal-Chaurasia/CryptoDashbord/assets/78657632/341138fe-b843-482e-a08b-a856b64a8878)
+![Screenshot (449)](https://github.com/Ujjawal-Chaurasia/CryptoDashbord/assets/78657632/3eb7912c-6ce0-48bc-aaf3-623bb9f14c0b)
+
 
